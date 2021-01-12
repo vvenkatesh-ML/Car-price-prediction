@@ -1,4 +1,4 @@
-# IoT-Analytics_Assignment-1
+# Car Price Prediction
 
 The goal of this project is to successfully predict the predict the price of a car based on several features provided.
 Various data pre-processing methods were applied:
